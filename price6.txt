@@ -1,0 +1,25 @@
+Data taken from paper "An optimal operating strategy for combined RES based Generators and Electric Storage Systems for load shifting applications"-Winter
+61.95
+55.86
+49.41
+46.38
+43.27
+42
+47.05
+58.87
+64.88
+70.55
+73.38
+73.91
+73.42
+70.15
+67.13
+68.09
+69.15
+71.14
+80.69
+81.31
+78.13
+74.37
+71.68
+67.3

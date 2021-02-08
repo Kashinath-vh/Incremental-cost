@@ -1,0 +1,25 @@
+Data taken from paper "Optimal Battery Sizing in Microgrids Using Probabilistic Unit Commitment & Sizing of energy storage for microgrids"
+0.11
+0.10
+0.11
+0.09
+0.11
+0.11
+0.13
+0.15
+0.26
+0.30
+0.35
+0.40
+0.50
+0.40
+0.30
+0.30
+0.40
+0.50
+0.30
+0.26
+0.15
+0.13
+0.10
+0.11

@@ -1,0 +1,25 @@
+Data taken from paper "An optimal operating strategy for combined RES based Generators and Electric Storage Systems for load shifting applications"-Summer
+69.21
+67.69
+59.44
+55.18
+51.12
+49.7
+49.75
+56.77
+61.84
+69.77
+79.23
+87.68
+89.65
+75.06
+70.54
+72.68
+73.19
+74.24
+73.92
+72.2
+74.09
+78.83
+85.14
+76.72

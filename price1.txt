@@ -1,0 +1,25 @@
+Data taken from paper "Optimal Integration of Distributed Energy Storage Devices in Smart Grids"
+0.108
+0.108
+0.108
+0.108
+0.108
+0.108
+0.108
+0.1512
+0.1824
+0.1824
+0.1824
+0.1824
+0.1824
+0.1824
+0.1824
+0.1824
+0.1824
+0.1824
+0.1824
+0.1512
+0.1512
+0.1512
+0.1512
+0.108

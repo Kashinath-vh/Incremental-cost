@@ -1,0 +1,25 @@
+Data taken from paper "Active-Reactive Optimal Power Flow in Distribution Networks With Embedded Generation and Battery Storage"
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.05
+0.05
+0.05

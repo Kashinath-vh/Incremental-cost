@@ -1,5 +1,7 @@
 # Incremental-cost
 
+If you are using this code or the algorithm, please cite our paper. https://www.sciencedirect.com/science/article/abs/pii/S2352152X19300738
+
 Code repo for our paper: "Optimal sizing of energy storage system in islanded microgrid using incremental cost approach"
 
 Published in: Journal of Energy Storage, Volume 24, August 2019, p. 100768
